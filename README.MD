@@ -1,11 +1,11 @@
-#Prova 2 - módulo 2
-###Script para manipulaçao db com ORM
+# Prova 2 - módulo 2
+### Script para manipulaçao db com ORM
 
 - orm.py -> faz o setup do ORM
 - adicionaJogos.py -> script que adiciona os jogos desejados
 - retornaJogos.py -> script que retorna todos os jogos do db
 
-##Exemplo de resposta do retornaJogos.py:
+## Exemplo de resposta do retornaJogos.py:
 ```
 
  -> Jogo n° 1: DEAD SPACE REMAKE para PS5. R$350, 8 unidades disponíveis.
