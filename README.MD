@@ -1,6 +1,14 @@
 # Prova 2 - módulo 2
 ### Script para manipulaçao db com ORM
 
+## Features:
+- Manipulação com ORM SQLAlchemy
+- Virtual Environment
+- Adiciona entries ao db
+- retorna entries com fomatação padrão
+
+
+## Arquivos:
 - orm.py -> faz o setup do ORM
 - adicionaJogos.py -> script que adiciona os jogos desejados
 - retornaJogos.py -> script que retorna todos os jogos do db
